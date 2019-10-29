@@ -17,6 +17,8 @@ Hasil Run Program_
 ## Apa yang dhasilkan di Outputnya ?
 _Di Program Latihan 2 Tersebut Menggunakan SubClass yang memiliki subclass Dimana di Guru1 Menyimpan
 info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang Matpel_(Mata Pelajaran) dan jadwal _Di Guru2 juga terdapat konstruktor sama seperti di Guru1 disitu juga terdapat Konstruktor. Nah di yang Guru3 lah tempat data data nya tersimpan._
+# Apa itu Konstruktor ?
+> Konstruktor / Constructor ialah sebuah method yang namanya sama persis dengan nama class-nya. Constructor sendiri berfungsi untuk memberikan nilai awal pada sebuah class ketika class tersebut dibuat dalam bentuk objek pada class lain
  
 
 
