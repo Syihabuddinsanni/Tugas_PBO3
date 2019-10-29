@@ -3,6 +3,7 @@
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝟙 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L1.PNG)
 # Apa yang terjadi jika "_S1.terprotek()_" Dihilangkan ?
+#### a.
 _Jika Program tersebut dihilangkan Maka hal tersebut tidak mempengaruhi
 Hasil Run Program_
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
