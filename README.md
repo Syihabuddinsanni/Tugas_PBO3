@@ -14,7 +14,7 @@ Hasil Run Program_
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L2.PNG)
 # Penjelasan
-> Class ini Memiliki 3 Class Yaitu Class - Person -Employ - Konstruktor SuperClass
+> Class ini Memiliki 3 Class Yaitu Class Person, Employ dan Konstruktor SuperClass
 [-] Class Person adalah : _SuperClass / Induk_
 [-] Class Employ adalah : Turunan dari Class **PERSON** / SubClass
 ## Apa yang dhasilkan di Outputnya ?
