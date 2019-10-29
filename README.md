@@ -10,7 +10,7 @@ Hasil Run Program_
 ## C. fungsi dari perintah _this.getClass.getName()_;
 >  _Method getClass()_ berfungsi mengembalikan sebuah obyek Class (dimana Class itu sendiri merupakan sebuah class) yang memilki sebuah method getName(). Selanjutnya getName() akan mengembalikan sebuah string yang mewakili nama class.
 
-
+#
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L2.PNG)
 # Penjelasan ?
