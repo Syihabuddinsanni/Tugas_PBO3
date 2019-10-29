@@ -37,6 +37,14 @@ info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang 
 # Penjelasan
 > Program diatas Memiliki 3 class yaitu Class A, B dan DemoOverrider2
 - [x] Class A : SuperClass / Induk
+> Di class Truck Terdapat 4 Konstruktor & 4 Method yaitu :
+
+#### Method :
+- setCadence
+- setGear
+- applyBreak
+- speedUp
+
 - [x] Class B : SubClass
 ### DemoOverride2 ?
 DemoOverride2 Adalah Class yang terpenting karena tanpanya SuperClass dan SubClass Tidak ada artinya lagi
@@ -45,6 +53,10 @@ H3h3
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 5 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L5.PNG)
+# Penjelasan
+> Program diatas memiliki 2 class yaitu Class Truck & Class MountainTruck
+- [x] CLass Truck         : SuperClass / Induk
+- [x] Class MountainTruck : SubClass
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 6 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L6.PNG)
