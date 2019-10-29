@@ -47,7 +47,7 @@ H3h3
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 5 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L5.PNG)
-# Penjelasan
+# Penjelasan ?
 > Program diatas memiliki 2 class yaitu Class Truck & Class MountainTruck
 - [x] CLass Truck         : SuperClass / Induk
 > Di class Truck Terdapat 4 Konstruktor & 4 Method yaitu :
