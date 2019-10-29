@@ -91,6 +91,8 @@ Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pad
 - [x] Tugas Praktikum
 - [ ] Tugas Kelompok
 - [x] Kesimpulan
+- [ ] Refleksi
+- [ ] Data dari tugas Praktikum diambil sesuai fakta 
 - [ ]  Dikasi Stars Viewers :v
 - [ ]  Jangan lupa Follow ya!!, para stalkers :V
 
