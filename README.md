@@ -1,4 +1,4 @@
-# MODUL PBO INHERITANCE
+#> MODUL PBO INHERITANCE
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝟙 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L1.PNG)
