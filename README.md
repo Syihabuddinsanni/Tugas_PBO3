@@ -98,16 +98,5 @@ Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pad
 
 Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
 
-Created By : 
-                                                             __    
-    ______            ________         __       __            |  |
-   |  ____|  _       |______  |       |  |     |  |  __   __  |  |
-   | |      | |            / /        |  |     |  | |  | |  | |  |______
-   | | ____ | |_____      / /         |  |_____|  | |  | |  | |   ____  \ 
-   |___   | |  ___  |   | |___        |   _____   | |  | |  | |  |    \  \ 
-   ____|  | | |   | |   |__   |    _  |  |     |  | |  |_|  | |  |___/  / 
-  |_______| |_|   |_|      |  |   (_) |__|     |__| |_____  | |  ______/
-  ________________________/  /                              \/  \/
-/___________________________/                              
-              
+
 
