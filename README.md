@@ -14,6 +14,8 @@ Hasil Run Program_
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L2.PNG)
 # Penjelasan
+- Class Person adalah : _SuperClass / Induk_
+- Class Employ adalah : Turunan dari Class **PERSON** / SubClass
 ## Apa yang dhasilkan di Outputnya ?
 _Di Program Latihan 2 Tersebut Menggunakan SubClass yang memiliki subclass Dimana di Guru1 Menyimpan
 info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang Matpel_(Mata Pelajaran) dan jadwal _Di Guru2 juga terdapat konstruktor sama seperti di Guru1 disitu juga terdapat Konstruktor. Nah di yang Guru3 lah tempat data data nya tersimpan._
