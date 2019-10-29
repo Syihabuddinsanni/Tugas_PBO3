@@ -34,6 +34,14 @@ info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang 
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 4 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L4.PNG)
+# Penjelasan
+> Program diatas Memiliki 3 class yaitu Class A, B dan DemoOverrider2
+- [x] Class A : SuperClass / Induk
+- [x] Class B : SubClass
+### DemoOverride2 ?
+DemoOverride2 Adalah Class yang terpenting karena tanpanya SuperClass dan SubClass Tidak ada artinya lagi
+Karena Method main nya ada di **DemoOverride2** Class ini biasanya saya sebut sebagai Class Main :V
+H3h3
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 5 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L5.PNG)
