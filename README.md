@@ -3,11 +3,15 @@
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 𝟙 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L1.PNG)
 ## A. Apa yang terjadi jika "_S1.terprotek()_" Dihilangkan ?
-_Jika Program tersebut dihilangkan Maka hal tersebut tidak mempengaruhi
+> _Jika Program tersebut dihilangkan Maka hal tersebut tidak mempengaruhi
 Hasil Run Program_
-# B. File yang dihasilkan dari kompilasi TestKedua Saja ?
+## B. File yang dihasilkan dari kompilasi TestKedua Saja ?
 > Dari kompilasi tersebut kita dapat ambil bahwa
-## -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
+## fungsi dari perintah _this.getClass.getName()_;
+> _Method getClass()_ berfungsi mengembalikan sebuah obyek Class (dimana Class itu sendiri merupakan sebuah class) yang memilki sebuah method getName(). Selanjutnya getName() akan mengembalikan sebuah string yang mewakili nama class.
+
+## C. 
+# -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L2.PNG)
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 3  --
