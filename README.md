@@ -83,7 +83,7 @@ Ayam.
 ## Prosedur ?
 Keyword Super | Keyword this | Overloading Methods | Overriding Methods |
 ------------ | ------------- | ------------ | ------------- |  
-Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pada superclass. | Kata kunci this dipergunakan pada pembuatan kelas dan digunakan untuk menyatakan objek sekarang. | Dalam satu class yang kita buat, kadangkala kita menginginkan untuk membuat method dengan nama yang sama namun mempunyai fungsi yang berbeda menurut parameter yang
+Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pada superclass. | Kata kunci this dipergunakan pada pembuatan kelas dan digunakan untuk menyatakan objek sekarang. | Dalam satu class yang kita buat, kadangkala kita menginginkan untuk membuat method dengan nama yang sama namun mempunyai fungsi yang berbeda menurut parameter yang | Overriding menulis kembali method sama persis. Sama mulai dari nama method dan isinya dan mengimplementasi kembali di subclassnya.
 
 
 ### READ THIS !
