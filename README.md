@@ -16,7 +16,7 @@ Hasil Run Program_
 # Penjelasan
 ## Apa yang dhasilkan di Outputnya ?
 _Di Program Latihan 2 Tersebut Menggunakan SubClass yang memiliki subclass Dimana di Guru1 Menyimpan
-info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang Matpel_(Mata Pelajaran) dan jadwal _Di Guru2 juga terdapat konstruktor sama seperti di Guru1 disitu juga terdapat Konstruktor. Nah di yang Guru3 lah tempat data data nya tersimpan.
+info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang Matpel_(Mata Pelajaran) dan jadwal _Di Guru2 juga terdapat konstruktor sama seperti di Guru1 disitu juga terdapat Konstruktor. Nah di yang Guru3 lah tempat data data nya tersimpan._
  
 
 
