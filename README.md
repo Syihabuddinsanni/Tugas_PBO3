@@ -13,7 +13,7 @@ Hasil Run Program_
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟  𝟚 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L2.PNG)
-# Penjelasan
+# Penjelasan ?
 > Class ini Memiliki 3 Class Yaitu Class Person, Employ dan Konstruktor SuperClass 
 - [x] Class Person adalah : _SuperClass / Induk_
 - [x] Class Employ adalah : Turunan dari Class **PERSON** / SubClass
@@ -61,7 +61,7 @@ H3h3
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 6 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L6.PNG)
-# Penjelasan
+# Penjelasan ?
 > Didalam program tersebut terdapat angka h3h3 :v 
 
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ --
@@ -71,11 +71,11 @@ H3h3
 - [x] Guru1 : SuperClass 
 - [x] Guru2 : SubCLass
 - [x] Guru3 : Konstruktor SuperClass
-# Keunggulan :v : 
+# Keunggulan :v ? : 
 Nah di Program ini kita dapat Ngekepoin guru guru mapel yang ada di kelas R2. Kita Dapat tau apa dan siapa
 saja sih guru guru Matpel Di kelas tersebut :)
 
-# Kesimpulan
+# Kesimpulan ?
 ## INHERITANCE ?
 > Inheritance adalah dimana sebuah Objek dapat mempunyai turunan. Contoh kecilnya adalah Hewan dan subclass / turunannya adalah
 Ayam.
@@ -97,4 +97,17 @@ Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pad
 - [ ]  Jangan lupa Follow ya!!, para stalkers :V
 
 Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
+
+Created By : 
+                                                             __    
+    ______            ________         __       __            |  |
+   |  ____|  _       |______  |       |  |     |  |  __   __  |  |
+   | |      | |            / /        |  |     |  | |  | |  | |  |______
+   | | ____ | |_____      / /         |  |_____|  | |  | |  | |   ____  \ 
+   |___   | |  ___  |   | |___        |   _____   | |  | |  | |  |    \  \ 
+   ____|  | | |   | |   |__   |    _  |  |     |  | |  |_|  | |  |___/  / 
+  |_______| |_|   |_|      |  |   (_) |__|     |__| |_____  | |  ______/
+  ________________________/  /                              \/  \/
+/___________________________/                              
+              
 
