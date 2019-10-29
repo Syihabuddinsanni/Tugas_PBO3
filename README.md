@@ -37,13 +37,7 @@ info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang 
 # Penjelasan
 > Program diatas Memiliki 3 class yaitu Class A, B dan DemoOverrider2
 - [x] Class A : SuperClass / Induk
-> Di class Truck Terdapat 4 Konstruktor & 4 Method yaitu :
 
-#### Method :
-- setCadence
-- setGear
-- applyBreak
-- speedUp
 
 - [x] Class B : SubClass
 ### DemoOverride2 ?
@@ -56,11 +50,37 @@ H3h3
 # Penjelasan
 > Program diatas memiliki 2 class yaitu Class Truck & Class MountainTruck
 - [x] CLass Truck         : SuperClass / Induk
+> Di class Truck Terdapat 4 Konstruktor & 4 Method yaitu :
+
+#### Method :
+- setCadence
+- setGear
+- applyBreak
+- speedUp
 - [x] Class MountainTruck : SubClass
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 6 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L6.PNG)
+# Penjelasan
+> Didalam program tersebut terdapat angka h3h3 :v 
 
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/Tugas%20praktikum.PNG)
+# Penjelasan
+> Di dalam program tersebut terdapat 3 Class Yaitu Guru1, Guru2, dan Guru3
+- [x] Guru1 : SuperClass 
+- [x] Guru2 : SubCLass
+- [x] Guru3 : Konstruktor SuperClass
+# Keunggulan :v : 
+Nah di Program ini kita dapat Ngekepoin guru guru mapel yang ada di kelas R2. Kita Dapat tau apa dan siapa
+saja sih guru guru Matpel Di kelas tersebut :)
 
+# Kesimpulan
+## INHERITANCE ?
+> Inheritance adalah dimana sebuah Objek dapat mempunyai turunan. Contoh kecilnya adalah Hewan dan subclass / turunannya adalah
+Ayam.
+
+## Prosedur ?
+Keyword Super | Blabla | Accessor Method | Mutator Method | Accessor Method | Mutator Method 
+------------ | ------------- | ------------ | ------------- | ------------ | ------------- 
+ | Bagaimana jika kita 
