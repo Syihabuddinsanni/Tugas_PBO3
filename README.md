@@ -24,14 +24,14 @@ info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang 
 > Konstruktor / Constructor ialah sebuah method yang namanya sama persis dengan nama class-nya. Constructor sendiri berfungsi untuk memberikan nilai awal pada sebuah class ketika class tersebut dibuat dalam bentuk objek pada class lain
  
 
-
+#
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 3  --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L3.PNG)
 # Penjelasan
 #### Class Ini Memiliki 2 Class yaitu Class **Hewan** dan Class **Gajah**
 - [x] Class Hewan : SuperCLass
 - [x] Class Gajah : SubClass
-
+#
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 4 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L4.PNG)
 # Penjelasan
@@ -44,7 +44,7 @@ info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang 
 DemoOverride2 Adalah Class yang terpenting karena tanpanya SuperClass dan SubClass Tidak ada artinya lagi
 Karena Method main nya ada di **DemoOverride2** Class ini biasanya saya sebut sebagai Class Main :V
 H3h3
-
+#
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 5 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L5.PNG)
 # Penjelasan ?
@@ -58,7 +58,7 @@ H3h3
 - applyBreak
 - speedUp
 - [x] Class MountainTruck : SubClass
-
+#
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 6 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L6.PNG)
 # Penjelasan ?
