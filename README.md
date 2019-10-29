@@ -67,20 +67,22 @@ H3h3
 #
 # -- ᴛᴜɢᴀꜱ ᴘʀᴀᴋᴛɪᴋᴜᴍ --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/Tugas%20praktikum.PNG)
+#
 # Penjelasan
 > Di dalam program tersebut terdapat 3 Class Yaitu Guru1, Guru2, dan Guru3
 - [x] Guru1 : SuperClass 
 - [x] Guru2 : SubCLass
 - [x] Guru3 : Konstruktor SuperClass
+#
 # Keunggulan :v ? : 
 Nah di Program ini kita dapat Ngekepoin guru guru mapel yang ada di kelas R2. Kita Dapat tau apa dan siapa
 saja sih guru guru Matpel Di kelas tersebut :)
-
+#
 # Kesimpulan ?
 ## INHERITANCE ?
 > Inheritance adalah dimana sebuah Objek dapat mempunyai turunan. Contoh kecilnya adalah Hewan dan subclass / turunannya adalah
 Ayam.
-
+#
 ## Prosedur ?
 Keyword Super | Keyword this | Overloading Methods | Overriding Methods |
 ------------ | ------------- | ------------ | ------------- |  
