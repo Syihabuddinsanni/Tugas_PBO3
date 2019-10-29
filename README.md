@@ -81,6 +81,41 @@ saja sih guru guru Matpel Di kelas tersebut :)
 Ayam.
 
 ## Prosedur ?
-Keyword Super | Blabla | Accessor Method | Mutator Method | Accessor Method | Mutator Method 
------------- | ------------- | ------------ | ------------- | ------------ | ------------- 
- | Bagaimana jika kita 
+Keyword Super | Keyword this | Overloading Methods | Overriding Methods |
+------------ | ------------- | ------------ | ------------- |  
+Keyword super digunakan oleh subclass untuk memanggil konstuktor yang berada pada
+superclass. | Kata kunci this dipergunakan pada pembuatan kelas dan digunakan untuk menyatakan
+objek sekarang. | Dalam satu class yang kita buat, kadangkala kita menginginkan untuk membuat method
+dengan nama yang sama namun mempunyai fungsi yang berbeda menurut parameter yang
+
+INHERITANCE
+
+3.3 Menerapkan konsep inheritance dalam pemrograman berbasis objek
+4.4 Membuat kode program inheritance dalam pemrograman berbasis objek
+
+• Menjelaskan konsep dan tujuan proses pewarisan dalam pemrograman aplikasi
+berorientasi obyek
+• Menjelaskan keterkaitan antara class dan pewarisan dalam pemrograman aplikasi
+berorientasi obyek
+• Menerapkan prosedur inheritance dalam pemrograman aplikasi berorientasi
+obyek
+• Merancang program aplikasi berorientasi obyek dengan penerapan inheritance
+dalam pemrograman berbasis objek
+• Menguji program aplikasi berorientasi obyek yang menerapkan inheritance.
+
+2 Modul Praktikum PBO SMK Telkom Malang
+digunakan. Kemampuan ini dimungkinkan dalam pemrograman Java, dan dikenal sebagai
+overloading method. | Overriding menulis kembali method sama persis. Sama mulai dari nama method dan
+isinya dan mengimplementasi kembali di subclassnya. Overriding dipakai saat kita
+menggunakan method yang sama tapi berbeda implementasinya.
+
+### READ THIS !
+- [x] Latihan
+- [x] Tugas Praktikum
+- [ ] Tugas Kelompok
+- [x] Kesimpulan
+- [ ]  Dikasi Stars Viewers :v
+- [ ]  Jangan lupa Follow ya!!, para stalkers :V
+
+Follow Ig saia :v [Instagram](https://www.instagram.com/_sh3hub/). <== Click tulisan biru di samping 
+
