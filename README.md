@@ -104,10 +104,7 @@ dalam pemrograman berbasis objek
 • Menguji program aplikasi berorientasi obyek yang menerapkan inheritance.
 
 2 Modul Praktikum PBO SMK Telkom Malang
-digunakan. Kemampuan ini dimungkinkan dalam pemrograman Java, dan dikenal sebagai
-overloading method. | Overriding menulis kembali method sama persis. Sama mulai dari nama method dan
-isinya dan mengimplementasi kembali di subclassnya. Overriding dipakai saat kita
-menggunakan method yang sama tapi berbeda implementasinya.
+digunakan. Kemampuan ini dimungkinkan dalam pemrograman Java, dan dikenal sebagai overloading method. | Overriding menulis kembali method sama persis. Sama mulai dari nama method dan isinya dan mengimplementasi kembali di subclassnya. Overriding dipakai saat kita menggunakan method yang sama tapi berbeda implementasinya.
 
 ### READ THIS !
 - [x] Latihan
