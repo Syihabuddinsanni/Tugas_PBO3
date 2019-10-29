@@ -15,8 +15,8 @@ Hasil Run Program_
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L2.PNG)
 # Penjelasan
 > Class ini Memiliki 3 Class Yaitu Class Person, Employ dan Konstruktor SuperClass 
-[x] Class Person adalah : _SuperClass / Induk_
-[x] Class Employ adalah : Turunan dari Class **PERSON** / SubClass
+[X] Class Person adalah : _SuperClass / Induk_
+[X] Class Employ adalah : Turunan dari Class **PERSON** / SubClass
 ## Apa yang dhasilkan di Outputnya ?
 _Di Program Latihan 2 Tersebut Menggunakan SubClass yang memiliki subclass Dimana di Guru1 Menyimpan
 info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang Matpel_(Mata Pelajaran) dan jadwal _Di Guru2 juga terdapat konstruktor sama seperti di Guru1 disitu juga terdapat Konstruktor. Nah di yang Guru3 lah tempat data data nya tersimpan._
@@ -29,8 +29,8 @@ info tentang nama dan usia. Sementara di subclass guru 2 menyimpan info tentang 
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L3.PNG)
 # Penjelasan
 #### Class Ini Memiliki 2 Class yaitu Class **Hewan** dan Class **Gajah**
-[x] Class Hewan : SuperCLass
-[x] Class Gajah : SubClass
+[X] Class Hewan : SuperCLass
+[X] Class Gajah : SubClass
 
 # -- 𝕝𝕒𝕥𝕚𝕙𝕒𝕟 4 --
 ![Alt text](https://github.com/Syihabuddinsanni/Tugas_PBO3/blob/master/SS%20HASIL%20RUN%20PROGRAM/L4.PNG)
